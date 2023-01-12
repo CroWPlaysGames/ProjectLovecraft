@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/ParrelSync/Examples/CustomArgumentExample.cs.meta
+guid: 5145ceabccf40b94c9e86b45d45c0d95
+========
+guid: ddb6189f56e9af240988ca59ec2db7cf
+>>>>>>>> Alex-Martin:Assets/UI/CardView/Scripts/DeckCreator.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

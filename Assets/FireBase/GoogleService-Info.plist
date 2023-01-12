@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1030732070073-6bo2g164u4m1c1h6u2mnrpn4g9bi2g7l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1030732070073-6bo2g164u4m1c1h6u2mnrpn4g9bi2g7l</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBNFd7iOHJzGOBo2wjmIWb4EyK2T7HUvEw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1030732070073</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Patchwork-Productions.Project-LoveCraft</string>
+	<key>PROJECT_ID</key>
+	<string>project-lovecraft</string>
+	<key>STORAGE_BUCKET</key>
+	<string>project-lovecraft.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1030732070073:ios:6639ff33733a35b10b6f68</string>
+	<key>DATABASE_URL</key>
+	<string>https://project-lovecraft-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

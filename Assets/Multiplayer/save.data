@@ -1,0 +1,230 @@
+000
+Golblin
+Each round it survives it gains 1 speed
+2
+2
+1
+1
+Unit
+Pre Battle
+1
+001
+Goblin Packmaster
+Spawn a single Goblin in a random open lane 
+3
+1
+1
+3
+Unit
+Post Battle
+1
+002
+Goblin Raider
+None
+2
+3
+3
+2
+Unit
+None
+1
+003
+Goblin Tyrant
+None
+4
+5
+4
+5
+Unit
+None
+1
+004
+Goblin Archers
+Attack The Lane to the Left, infront and to the right of the Archers
+3
+3
+1
+2
+Unit
+Active
+1
+005
+Goblin Thieft
+If the Goblin thief hits the opponents health pool steal 1 card from the opponents deck.
+3
+3
+1
+2
+Unit
+Active
+1
+006
+Goblin Den
+Heal all golbins on the board by 2, reduce the Goblin Den's health by 1
+3
+0
+0
+3
+Field Spell
+Post Battle
+1
+007
+Goblin Scout
+Give all ally goblins 1 spead during the round
+1
+2
+1
+3
+Unit
+Pre Battle
+1
+8
+Skeleton
+Heal for 1 HP
+3
+2
+1
+2
+Unit
+Post Battle
+1
+9
+Zombie
+When I die spawn a headless zombie in my place
+1
+2
+2
+1
+Unit
+Active
+1
+10
+Headless Zombie
+Lose all remaining Health
+1
+1
+2
+1
+Unit
+Post Battle
+1
+11
+Ghoul
+Give opponent Poison (Poison - opponent loses 3 at the next Post battle)  
+2
+1
+1
+3
+Unit
+Active
+1
+12
+Grave Yard
+Spawn a single Zombie, Skeleton or Ghoul in a random open lane, reduce the Grave Yard's health by 1
+2
+0
+0
+2
+Field Spell
+Post Battle
+1
+13
+Necromancer
+All ally Skeleton, Zombie and Ghoul gain 1 speed
+4
+1
+1
+4
+Unit
+Pre Battle
+1
+14
+Bone Dragon
+Give opponent Death Touch (Death Touch - Lose all health during Post Battle)
+6
+3
+2
+5
+Unit
+Active
+1
+15
+Cthulhu Cultist
+If a Cthuhu Preist beside a Cultist would be damaged take it instead.
+3
+2
+1
+1
+Unit
+Active
+1
+16
+Cthulhu Preist
+None
+2
+2
+1
+2
+Unit
+None
+1
+17
+Enlightened Zealot
+If a Cthulhu Priest is present on the board gain 1 speed, health and damage. If there is no Preists presents lose all buffs
+3
+2
+2
+3
+Unit
+Pre Battle
+1
+18
+Sacrifical Lamb
+None
+1
+0
+0
+1
+Unit
+None
+1
+19
+Ritual Circle
+Place a Sacraficial Lamb in the players hand.
+1
+0
+0
+3
+Field Spell
+Pre Battle
+1
+20
+Eldritch Wolf
+Summoned through a Ritual Cirlce, Have 1 Cthulu Preists and 1 Sacrafical Lambs on your board To summon. Consume the lamb and the Ritual Circle.
+5
+4
+5
+2
+Unit
+Active
+1
+21
+Cthulhu
+Summoned through a Ritual Circle, Have 2 Cthulu Preists and 3 Sacrafical Lambs on your board To summon. Consume the 3 lambs and the Ritual Circle.                                                                                 Immune - Cthulhu in not impacted by any buffs or Debuffs from other cards
+8
+3
+6
+0
+Unit
+Active
+1
+22
+Congregation
+Move a Cthulhu Priest to be one of the top 3 cards in your deck.
+2
+2
+3
+2
+Unit
+Place
+1

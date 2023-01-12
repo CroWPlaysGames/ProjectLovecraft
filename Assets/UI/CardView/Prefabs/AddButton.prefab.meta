@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Multiplayer/Card.prefab.meta
+guid: ee24792588c068647b54e59fc685eb0e
+========
+guid: aae7d3db07e446848b17cea184f9b70d
+>>>>>>>> Alex-Martin:Assets/UI/CardView/Prefabs/AddButton.prefab.meta
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

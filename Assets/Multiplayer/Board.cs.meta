@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Board.cs.meta
+guid: 56c6a93b3d59fd04fa7e4eb6810f2b39
+========
+guid: 7263ba06b91ca1b4ea03b396db046da5
+>>>>>>>> Alex-Martin:Assets/GameCrontrollers/Signin.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

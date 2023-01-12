@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "1030732070073",
+    "firebase_url": "https://project-lovecraft-default-rtdb.firebaseio.com",
+    "project_id": "project-lovecraft",
+    "storage_bucket": "project-lovecraft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030732070073:android:b9728832a15608cb0b6f68",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.ProjectLoveCraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030732070073-1doj0m7b9rc23707o5d9l7l7ed5r9di8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu8CUx_qTQksd0RgQJHcGREIMLLhvA66Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030732070073-1doj0m7b9rc23707o5d9l7l7ed5r9di8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1030732070073-6bo2g164u4m1c1h6u2mnrpn4g9bi2g7l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Patchwork-Productions.Project-LoveCraft"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030732070073:android:be791c40001be92e0b6f68",
+        "android_client_info": {
+          "package_name": "com.PatchworkProductions.ProjectLoveCraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030732070073-1doj0m7b9rc23707o5d9l7l7ed5r9di8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu8CUx_qTQksd0RgQJHcGREIMLLhvA66Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030732070073-1doj0m7b9rc23707o5d9l7l7ed5r9di8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1030732070073-6bo2g164u4m1c1h6u2mnrpn4g9bi2g7l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Patchwork-Productions.Project-LoveCraft"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

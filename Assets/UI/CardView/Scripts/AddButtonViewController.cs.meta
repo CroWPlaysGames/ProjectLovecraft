@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/DropZone.cs.meta
+guid: 93728baa34f606342a9d9e17731bde69
+========
+guid: 5fe8f9858541ab14fb71e60027412025
+>>>>>>>> Alex-Martin:Assets/UI/CardView/Scripts/AddButtonViewController.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

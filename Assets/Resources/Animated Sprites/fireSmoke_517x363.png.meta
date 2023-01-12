@@ -1,0 +1,2566 @@
+fileFormatVersion: 2
+guid: b4e226bde8d87e14ca8130913cdf5efe
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fireSmoke_517x363_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3630
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b755600c6d5ce498fa30cc490382a5
+      internalID: -391780208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_1
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 3630
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd360c3f3564b4e4a9d003651bfa03b3
+      internalID: -770855324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_2
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 3630
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9439e114b363577438abd37ba42c2606
+      internalID: -977699461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_3
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 3630
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5ab90509cb4f74987cae54d18fe8ad
+      internalID: -116035903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_4
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 3630
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4920380e808536d4abfe38d08b62f97b
+      internalID: -591092010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_5
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 3630
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e2330674ad2de4cbdd7bf9a38c9856
+      internalID: -317082751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_6
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 3630
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bde7c6591c4f8947a3716809c8caf38
+      internalID: -1401821654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_7
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 3630
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616fc9308dd60dc46b2519400f6f7689
+      internalID: 1397548456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_8
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 3630
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d703ae58511d341b1b0f659ecee60a
+      internalID: -1562085105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_9
+      rect:
+        serializedVersion: 2
+        x: 4653
+        y: 3630
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9674dff849c294c4785772ee149c7f55
+      internalID: -46735485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_10
+      rect:
+        serializedVersion: 2
+        x: 5170
+        y: 3630
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0338d49b3baa4764ab295d6a28eda5db
+      internalID: 993752891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3267
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee8d845cd602b24382db232363561b2
+      internalID: -1057463223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_12
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 3267
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6953146cab24041a0143ca1736c7db
+      internalID: 136734929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_13
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 3267
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef64ee4144152846874e0ba471eddbb
+      internalID: -1130290248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_14
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 3267
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857ea34a7d648734d91c5b13c63593d8
+      internalID: -389204598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_15
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 3267
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718e853c20c9f324ea6d5585c83b5c82
+      internalID: -1265725581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_16
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 3267
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93778a367c0e33429d6f70913db2cce
+      internalID: -614141018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_17
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 3267
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e6ae583578347448ebc4a3d99e468e
+      internalID: 1805247607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_18
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 3267
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e68221c326876a4ba8ccad5b8e5c10e
+      internalID: -2078982410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_19
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 3267
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0140e4fb9214c4791fb71fe165dc50
+      internalID: 2019139084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_20
+      rect:
+        serializedVersion: 2
+        x: 4653
+        y: 3267
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5bfe4c47d58e8409d3e1ccfb5cd5ef
+      internalID: -1514907793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_21
+      rect:
+        serializedVersion: 2
+        x: 5170
+        y: 3267
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b17791d78b5294288560489d31adbc
+      internalID: 680698379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2904
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34818a46a2c1cf4498c51afee67debc
+      internalID: 1965092330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_23
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 2904
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a88d24bbb0149642ab243914877fb64
+      internalID: 1071177949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_24
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 2904
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070a9d006f271a047af8ae55a185f836
+      internalID: -1221568625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_25
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 2904
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3076403394647a1429abffe05bf54e24
+      internalID: 1276729089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_26
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 2904
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c4749f4c68d2f4f8ded91fd99ac02e
+      internalID: 977574783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_27
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 2904
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89d669fa1c0bd9459809b08d832e417
+      internalID: 1848581177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_28
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 2904
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71034128da886146a8778d6fc3142a9
+      internalID: 775725878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_29
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 2904
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52e2324542c70e4680b054a58543394
+      internalID: -1765346105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_30
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 2904
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1725349dfbb884faa0fba156a18999
+      internalID: -1020483283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_31
+      rect:
+        serializedVersion: 2
+        x: 4653
+        y: 2904
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d567a8699a29d8499adafec80547c88
+      internalID: 1770029375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_32
+      rect:
+        serializedVersion: 2
+        x: 5170
+        y: 2904
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1899144bd803f349a2f6af5f9f00045
+      internalID: -201066264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2541
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c254542e0e235d54f899ea8be0763588
+      internalID: 780125897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_34
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 2541
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ea0a4e8ba2dab4b9808fafd0781c13
+      internalID: 1391424387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_35
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 2541
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b852d700657c8de4fb4d7ce495c0a711
+      internalID: 23726251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_36
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 2541
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7975109377ccbe34bbb869a790ed3684
+      internalID: 1015596450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_37
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 2541
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61478d5e6c8c1694ab207cef469e1aa4
+      internalID: 1323867454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_38
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 2541
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bab92fad31ffc4a9419d7572273f3f
+      internalID: 742855299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_39
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 2541
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b8958659aeaa34aaf082a5d14466a6
+      internalID: 1947632334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_40
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 2541
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5a6750b366dc1448e5fef0c5f8fde4
+      internalID: -1320588630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_41
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 2541
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8742b499c15a50c4c880df55f3a08777
+      internalID: -1607779225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_42
+      rect:
+        serializedVersion: 2
+        x: 4653
+        y: 2541
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d6a8950ad038448805c6bf7f99a05e
+      internalID: -231738174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_43
+      rect:
+        serializedVersion: 2
+        x: 5170
+        y: 2541
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11ee15567313c849bfa47b245094785
+      internalID: 605729851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2178
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf551f30e56b3dc42807c5ddc2778803
+      internalID: -445827185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_45
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 2178
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b242c13266bc149a7802ccbbc2c7bc
+      internalID: -704281330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_46
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 2178
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78da6fb56142b13428abd0ce81251fc2
+      internalID: -156781193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_47
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 2178
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e090b1eed1a1034bb32b3203cd2fef5
+      internalID: 1387503975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_48
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 2178
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2daea3bed5fff4e95b5ef79ae9beaf
+      internalID: -410833999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_49
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 2178
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cc5603b6bf23c4880d858264e62d1e
+      internalID: -523361460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_50
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 2178
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d9671e8ceb87f4fb133954c70918c8
+      internalID: -46646380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_51
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 2178
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e75b37ff3da6943808e5892e526a41
+      internalID: 1349613178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_52
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 2178
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44d97ad8fab3314d890cfc8e6da999f
+      internalID: -1734165122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_53
+      rect:
+        serializedVersion: 2
+        x: 4653
+        y: 2178
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0bb22cb1f1ab14a9c797c52b9dab40
+      internalID: -1120251029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_54
+      rect:
+        serializedVersion: 2
+        x: 5166
+        y: 2178
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3325a81054394e4397b4a522c142d3b
+      internalID: 14841713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1815
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03eda366e947fae4c8d9c3aa9e87deec
+      internalID: 564780603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_56
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1815
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f1b1903220a30409b281334bd25672
+      internalID: -505161695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_57
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1815
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c8aada58a177f4d814d8ebbef41907
+      internalID: -582530790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_58
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1815
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebec5164a2760f48a872d9bdf307a43
+      internalID: -40604615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_59
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 1815
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bdbb1fc5377dc4d91650c1b1933a36
+      internalID: 1691377865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_60
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1815
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d64ebabea308d944b1eef1d6d42c5fc
+      internalID: -2086969591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_61
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 1815
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d97f48c7e984f4a9aeabb4da486078
+      internalID: -354746902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_62
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 1815
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680b5cf0b9b8e9443b27284bef9df423
+      internalID: -1712803580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_63
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 1815
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ca6e6b658f1fb4bb72c5f7de04a06c
+      internalID: -107111928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_64
+      rect:
+        serializedVersion: 2
+        x: 4653
+        y: 1815
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f8d17a5383ba64e91ec87a2a4d066c
+      internalID: 640406631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_65
+      rect:
+        serializedVersion: 2
+        x: 5170
+        y: 1815
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d619c5d131d0704e942c564e39ac114
+      internalID: 1527109747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1452
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3153d42e79216e0418638ed115985289
+      internalID: -1688219460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_67
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1452
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eab43a95bfca8d438bead4cd2f6d3c3
+      internalID: 1247944833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_68
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1452
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58df60702f8d30f418dc18ff11b205db
+      internalID: 114821135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_69
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1452
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2f9f23aa16ac34e8aced4ea4c75e0f
+      internalID: -180033051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_70
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 1452
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea906f0ff188084b91521caba1c7405
+      internalID: -1226123766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_71
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1452
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0d7ab0cf3395d449015289f6a09709
+      internalID: 494629058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_72
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 1452
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dac454d4e81e640bb164b9bf983925
+      internalID: -815680699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_73
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 1452
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6730b3b12f107f84b9adda3ebadc8664
+      internalID: 1160500080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_74
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 1452
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc2f92302e04c2469842e6db8f2400e
+      internalID: 1416235964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_75
+      rect:
+        serializedVersion: 2
+        x: 4653
+        y: 1452
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da4d18d470db3f4abbf7148f3c3bc69
+      internalID: 859877737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_76
+      rect:
+        serializedVersion: 2
+        x: 5170
+        y: 1452
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cecf40e8b996548b823f07101e33a9
+      internalID: -17140572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1089
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c73e62a3fed6524c810ec80da852956
+      internalID: 1048184828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_78
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1089
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4afb8655871ce34b8b2b491d44e0136
+      internalID: -1999908511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_79
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1089
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe1a469a9cd5ca48be74431e5c8cba9
+      internalID: 258212443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_80
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1089
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bb97ed86c735948b1c2604984f4f14
+      internalID: 2047826430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_81
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 1089
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becf0ba5e57d2f045a5b7fa87dd41eaa
+      internalID: 307620527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_82
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1089
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8d1cb5ed5ba3e428aa7b2c6de437ae
+      internalID: 1745481919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_83
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 1089
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bb604e872d4ce469738bb327a48ab5
+      internalID: 1717655639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_84
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 1089
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93de1e1ae2c296479d9e47f040b2c90
+      internalID: -973235281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_85
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 1089
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5545291fbbfd2b745aa92e4413281a88
+      internalID: 2143502506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_86
+      rect:
+        serializedVersion: 2
+        x: 4653
+        y: 1089
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023a08f9e12b5d149a6c919948673340
+      internalID: 689380295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_87
+      rect:
+        serializedVersion: 2
+        x: 5170
+        y: 1089
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b3bb55474a4234f961aa223ebcf22b
+      internalID: -156307767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 726
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d5b0b0c92335a4fb2bab9d395dcc2f
+      internalID: -251983801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_89
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 726
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbe8203e07bf5e48a53f80b674c1ebe
+      internalID: 2141455772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_90
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 726
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469e757f7ab609e45ba71e8c2099cd6b
+      internalID: -2053803080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_91
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 726
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bbc295d87226c43892374d66e68a5c
+      internalID: 146387945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_92
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 726
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6156a41b3a67e6841be22e658cfa6dda
+      internalID: 900084544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_93
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 726
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d553dae55cb5d409e86dc5d425fb45
+      internalID: 867004715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_94
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 726
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19aa8b038e134f8419d3a9d173e002b2
+      internalID: 1909502487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_95
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 726
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7d9a704589e8c41941a2971d6d88c7
+      internalID: -191811841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_96
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 726
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fe186710d5edc488ed874a2be6fc73
+      internalID: -155654056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_97
+      rect:
+        serializedVersion: 2
+        x: 4653
+        y: 726
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105b0baba5b83b34cb25c614043c1250
+      internalID: 455175723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_98
+      rect:
+        serializedVersion: 2
+        x: 5170
+        y: 726
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9785bf38457da468c9bcbd42d160a0
+      internalID: 388743416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 363
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5f05a16a2c50c42a611b399c8dae87
+      internalID: -618078601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_100
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 363
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b382d59756e60334cbcd7c1f07ac5adb
+      internalID: 1543622758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_101
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 363
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d359681eff84a45a64ccfd7a243d09
+      internalID: 570923759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_102
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 363
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5956e5a4f90ee41b8a78a3748649fb
+      internalID: -1864737917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_103
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 363
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bb88a78b859c84bba1a33f8ec30696
+      internalID: 595370130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_104
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 363
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38448644889a86c43a1fd97883b0a10a
+      internalID: -1901601032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_105
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 363
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae4a8114d780ed4583c100ae87c2362
+      internalID: -1646512281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_106
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 363
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c5e2c14763bb34381d9ca0ccbb7e5a
+      internalID: 842596827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_107
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 363
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca202bbb396208c4f9d0371cc5a58e77
+      internalID: -24725232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_108
+      rect:
+        serializedVersion: 2
+        x: 4653
+        y: 363
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09382327eecb8a43be89620b45a9e0e
+      internalID: -1409139039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSmoke_517x363_109
+      rect:
+        serializedVersion: 2
+        x: 5170
+        y: 363
+        width: 517
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a1585ab875c0e46a2fa850cbb69332
+      internalID: 122710665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6fd81c547c279da4e9424bfd93a92601
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      fireSmoke_517x363_51: 1349613178
+      fireSmoke_517x363_90: -2053803080
+      fireSmoke_517x363_36: 1015596450
+      fireSmoke_517x363_57: -582530790
+      fireSmoke_517x363_31: 1770029375
+      fireSmoke_517x363_66: -1688219460
+      fireSmoke_517x363_84: -973235281
+      fireSmoke_517x363_9: -46735485
+      fireSmoke_517x363_33: 780125897
+      fireSmoke_517x363_108: -1409139039
+      fireSmoke_517x363_3: -116035903
+      fireSmoke_517x363_21: 680698379
+      fireSmoke_517x363_16: -614141018
+      fireSmoke_517x363_40: -1320588630
+      fireSmoke_517x363_53: -1120251029
+      fireSmoke_517x363_107: -24725232
+      fireSmoke_517x363_72: -815680699
+      fireSmoke_517x363_13: -1130290248
+      fireSmoke_517x363_11: -1057463223
+      fireSmoke_517x363_6: -1401821654
+      fireSmoke_517x363_46: -156781193
+      fireSmoke_517x363_30: -1020483283
+      fireSmoke_517x363_12: 136734929
+      fireSmoke_517x363_98: 388743416
+      fireSmoke_517x363_101: 570923759
+      fireSmoke_517x363_61: -354746902
+      fireSmoke_517x363_1: -770855324
+      fireSmoke_517x363_20: -1514907793
+      fireSmoke_517x363_64: 640406631
+      fireSmoke_517x363_67: 1247944833
+      fireSmoke_517x363_34: 1391424387
+      fireSmoke_517x363_35: 23726251
+      fireSmoke_517x363_45: -704281330
+      fireSmoke_517x363_89: 2141455772
+      fireSmoke_517x363_69: -180033051
+      fireSmoke_517x363_4: -591092010
+      fireSmoke_517x363_15: -1265725581
+      fireSmoke_517x363_76: -17140572
+      fireSmoke_517x363_100: 1543622758
+      fireSmoke_517x363_17: 1805247607
+      fireSmoke_517x363_81: 307620527
+      fireSmoke_517x363_80: 2047826430
+      fireSmoke_517x363_73: 1160500080
+      fireSmoke_517x363_103: 595370130
+      fireSmoke_517x363_41: -1607779225
+      fireSmoke_517x363_0: -391780208
+      fireSmoke_517x363_87: -156307767
+      fireSmoke_517x363_82: 1745481919
+      fireSmoke_517x363_8: -1562085105
+      fireSmoke_517x363_85: 2143502506
+      fireSmoke_517x363_106: 842596827
+      fireSmoke_517x363_60: -2086969591
+      fireSmoke_517x363_91: 146387945
+      fireSmoke_517x363_14: -389204598
+      fireSmoke_517x363_47: 1387503975
+      fireSmoke_517x363_95: -191811841
+      fireSmoke_517x363_18: -2078982410
+      fireSmoke_517x363_74: 1416235964
+      fireSmoke_517x363_75: 859877737
+      fireSmoke_517x363_99: -618078601
+      fireSmoke_517x363_24: -1221568625
+      fireSmoke_517x363_29: -1765346105
+      fireSmoke_517x363_32: -201066264
+      fireSmoke_517x363_49: -523361460
+      fireSmoke_517x363_27: 1848581177
+      fireSmoke_517x363_104: -1901601032
+      fireSmoke_517x363_102: -1864737917
+      fireSmoke_517x363_88: -251983801
+      fireSmoke_517x363_37: 1323867454
+      fireSmoke_517x363_39: 1947632334
+      fireSmoke_517x363_71: 494629058
+      fireSmoke_517x363_68: 114821135
+      fireSmoke_517x363_44: -445827185
+      fireSmoke_517x363_48: -410833999
+      fireSmoke_517x363_22: 1965092330
+      fireSmoke_517x363_94: 1909502487
+      fireSmoke_517x363_5: -317082751
+      fireSmoke_517x363_105: -1646512281
+      fireSmoke_517x363_50: -46646380
+      fireSmoke_517x363_19: 2019139084
+      fireSmoke_517x363_42: -231738174
+      fireSmoke_517x363_25: 1276729089
+      fireSmoke_517x363_38: 742855299
+      fireSmoke_517x363_96: -155654056
+      fireSmoke_517x363_43: 605729851
+      fireSmoke_517x363_58: -40604615
+      fireSmoke_517x363_70: -1226123766
+      fireSmoke_517x363_54: 14841713
+      fireSmoke_517x363_10: 993752891
+      fireSmoke_517x363_86: 689380295
+      fireSmoke_517x363_77: 1048184828
+      fireSmoke_517x363_93: 867004715
+      fireSmoke_517x363_7: 1397548456
+      fireSmoke_517x363_52: -1734165122
+      fireSmoke_517x363_2: -977699461
+      fireSmoke_517x363_79: 258212443
+      fireSmoke_517x363_23: 1071177949
+      fireSmoke_517x363_78: -1999908511
+      fireSmoke_517x363_55: 564780603
+      fireSmoke_517x363_97: 455175723
+      fireSmoke_517x363_26: 977574783
+      fireSmoke_517x363_109: 122710665
+      fireSmoke_517x363_63: -107111928
+      fireSmoke_517x363_83: 1717655639
+      fireSmoke_517x363_56: -505161695
+      fireSmoke_517x363_62: -1712803580
+      fireSmoke_517x363_28: 775725878
+      fireSmoke_517x363_59: 1691377865
+      fireSmoke_517x363_65: 1527109747
+      fireSmoke_517x363_92: 900084544
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Drag.cs.meta
+guid: d6ff87d6f1ee71549be079ee83bd27a4
+========
+guid: 423a62f0a1d04db4e91a4764a645e4d5
+>>>>>>>> Alex-Martin:Assets/UI/CardView/Scripts/AddButtonClick.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
